@@ -5,7 +5,7 @@
 * [Steps to Install Git and Setup GitHub](https://github.com/dctacademy/install-git)
 * [Format for Writing GitHub Documentation](https://github.com/dctacademy/docs-format)
 * [Introduction to Git and Github - Basic Commands](https://github.com/dctacademy/intro-to-git-and-github)
-* [Advanced GitHub](https://github.com/dctacademy/advanced-github)
+* [Advanced GitHub: Fork, Clone, Pull Requests](https://github.com/dctacademy/advanced-github)
 * [List of Hard Assignments](https://github.com/dctacademy/assignments)
 
 ## Computer Science
