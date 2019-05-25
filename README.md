@@ -14,6 +14,12 @@
 ## Deployment
 * [Deploy Node.js Application to Heroku](https://github.com/dctacademy/heroku-mongo-node)
 
+## Social Media
+* [DCT Academy | Facebook](https://www.facebook.com/dctacademy.bangalore/)
+* [DCT Academy | LinkedIn](https://www.linkedin.com/company/dct-academy/)
+* [DCT Academy | YouTube](https://www.youtube.com/channel/UClN7421hR4zgRTOUtbJTBJg)
+
 ## Ethics
 * [Code of Conduct](https://github.com/dctacademy/code-of-conduct)
 * [Privacy Policy](https://github.com/dctacademy/privacy-policy)
+
