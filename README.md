@@ -13,6 +13,7 @@
 
 ## Deployment
 * [Deploy Node.js Application to Heroku](https://github.com/dctacademy/heroku-mongo-node)
+* [Deploy MERN (MongoDB, Express.js, React.js, Node.js) Application to Heroku](https://github.com/dctacademy/deploy-node-react-mongo-heroku)
 
 ## Social Media
 * [DCT Academy | Facebook](https://www.facebook.com/dctacademy.bangalore/)
