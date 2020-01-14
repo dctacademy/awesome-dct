@@ -7,16 +7,16 @@
 * [Introduction to Git and Github - Basic Commands](https://github.com/dctacademy/intro-to-git-and-github)
 * [Advanced GitHub: Fork, Clone, Pull Requests](https://github.com/dctacademy/advanced-github)
 
-## More Fun Stuff
-* [DCT Code Platform Analysis 2020](https://github.com/dctacademy/code-platform-analysis)
-* [List of Hard Assignments](https://github.com/dctacademy/assignments)
-
 ## Computer Science
 * [Introduction to Computer Science](https://github.com/dctacademy/intro-to-cs)
 
 ## Deployment
 * [Deploy Node.js Application to Heroku](https://github.com/dctacademy/heroku-mongo-node)
 * [Deploy MERN (MongoDB, Express.js, React.js, Node.js) Application to Heroku](https://github.com/dctacademy/deploy-node-react-mongo-heroku)
+
+## More Fun Stuff
+* [DCT Code Platform Analysis 2020](https://github.com/dctacademy/code-platform-analysis)
+* [List of Hard Assignments](https://github.com/dctacademy/assignments)
 
 ## Social Media
 * [DCT Academy | Facebook](https://www.facebook.com/dctacademy.bangalore/)
