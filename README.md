@@ -6,6 +6,9 @@
 * [Format for Writing GitHub Documentation](https://github.com/dctacademy/docs-format)
 * [Introduction to Git and Github - Basic Commands](https://github.com/dctacademy/intro-to-git-and-github)
 * [Advanced GitHub: Fork, Clone, Pull Requests](https://github.com/dctacademy/advanced-github)
+
+## More Fun Stuff
+* [DCT Code Platform Analysis 2020](https://github.com/dctacademy/code-platform-analysis)
 * [List of Hard Assignments](https://github.com/dctacademy/assignments)
 
 ## Computer Science
