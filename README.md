@@ -21,7 +21,7 @@
 ## Social Media
 * [DCT Academy | Facebook](https://www.facebook.com/dctacademy.bangalore/)
 * [DCT Academy | LinkedIn](https://www.linkedin.com/company/dct-academy/)
-* [DCT Academy | YouTube](https://www.youtube.com/channel/UClN7421hR4zgRTOUtbJTBJg)
+* [DCT Academy | YouTube](https://www.youtube.com/dctacademy)
 
 ## YouTube - Source Code
 * [Source Code for YouTube Tutorials](https://github.com/dctacademy/youtube)
